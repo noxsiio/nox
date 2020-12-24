@@ -1,0 +1,19 @@
+{
+    "name": "noxsi/nox",
+    "description": "A micro Framwork based on PHP",
+    "authors": [
+        {
+            "name": "Dennis",
+            "email": "hello@noxsi.de"
+        }
+    ],
+    "require": {
+        "php": ">=7.3.0"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "Nox": "src/"
+        }
+    }
+}
